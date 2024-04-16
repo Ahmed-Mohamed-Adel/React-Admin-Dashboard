@@ -1,8 +1,16 @@
-# React + Vite
+# React-Admin-Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/Ahmed-Mohamed-Adel/React-Admin-Dashboard/assets/91554895/b658da8d-92ba-4286-bd63-bfa5a8c48e05)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is Awesome Admin Dashboard with React.
+
+### About
+- You can Manging The Team Members.
+- View a List of Contacts for Future Reference.
+- View a List of Invoice Balances.
+- Create a New User Profile.
+- Calendar to record daily tasks with [FullCalendar](https://fullcalendar.io/)
+- View Frequently Asked Questions Page.
+- Bar Chart, Pie Chart, Line Chart, Geography with [nivo](https://nivo.rocks/)
+
